@@ -10,6 +10,24 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require rails-ujs
-//= require turbolinks
-//= require_tree .
+//= require jquery-1.12.4
+//= require bootstrap.min
+//= require bootsnav
+//= require parallax
+//= require scrollto
+//= require jquery-scrolltofixed-min
+//= require fullcalendar.min
+//= require jquery.counterup
+//= require gallery
+//= require wow.min
+//= require slider
+//= require video-player
+//= require flipclock.min
+//= require jquery.barfiller
+//= require timepicker
+//= require tweetie
+//= require jflickrfeed.min
+//= require googlemaps
+//= require color-switcher
+//= require script
+

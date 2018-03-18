@@ -10,6 +10,27 @@
  * files in this directory. Styles in this file should be added after the last require_* statement.
  * It is generally better to create a new file per style scope.
  *
- *= require_tree .
- *= require_self
+ *= require bootstrap.min
+ *= require jquery-ui.min
+ *= require font-awesome.min
+ *= require font-awesome-animation.min
+ *= require bootstrap-rtl.min
+ *= require boxed
+ *= require flaticon
+ *= require animate
+ *= require bootsnav
+ *= require fullcalendar.min
+ *= require slider
+ *= require hover
+ *= require fancyBox
+ *= require jquery.flickr
+ *= require owl
+ *= require isotop
+ *= require magnific-popup
+ *= require flipclock
+ *= require timecounter
+ *= require style-shortcode
+ *= require style
+ *= require rtl
+ *= require responsive
  */
