@@ -14,8 +14,6 @@
  *= require jquery-ui.min
  *= require font-awesome.min
  *= require font-awesome-animation.min
- *= require bootstrap-rtl.min
- *= require boxed
  *= require flaticon
  *= require animate
  *= require bootsnav
@@ -31,6 +29,5 @@
  *= require timecounter
  *= require style-shortcode
  *= require style
- *= require rtl
  *= require responsive
  */
