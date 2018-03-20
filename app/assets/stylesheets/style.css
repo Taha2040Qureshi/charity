@@ -64,8 +64,8 @@ Tag: causes, charity, church, charity agency, charity html template, donate, don
 @import "timecounter.css";
 @import "style-shortcode.css";
 */
-/*@import url(https://fonts.googleapis.com/css?family=Montserrat);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700);*/
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700);
 
 
 /* ----- BODY CONTENT ----- */
@@ -269,7 +269,7 @@ section {
 /* ---------- PRELOADER ---------- */
 .preloader { 
   background-color:#ffffff; 
-  background-image:url("../images/preloader.gif"); 
+  background-image:url("preloader.gif"); 
   background-position:center center; 
   background-repeat:no-repeat; 
   height:100%; 
@@ -836,7 +836,7 @@ section {
 .fclmn-one:hover {
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url("../images/fclumn/1.jpg");
+  background-image: url("fclumn/1.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -846,7 +846,7 @@ section {
 .fclmn-one.two:hover {
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url("../images/fclumn/2.jpg");
+  background-image: url("fclumn/2.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -856,7 +856,7 @@ section {
 .fclmn-one.three:hover {
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url("../images/fclumn/3.jpg");
+  background-image: url("fclumn/3.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -866,7 +866,7 @@ section {
 .fclmn-one.four:hover {
   background-repeat: no-repeat;
   background-position: center center;
-  background-image: url("../images/fclumn/4.jpg");
+  background-image: url("fclumn/4.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -1062,7 +1062,7 @@ form.volunteer-reg-form {
     z-index: 999;
   }
   .ulockd-service-one {
-    background-image: url("../images/pattern/p3.html");
+    background-image: url("pattern/p3.html");
     background-position: center center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -1100,7 +1100,7 @@ form.volunteer-reg-form {
   .ulockd-testimonial-divider {
     background-attachment: fixed !important;
     background-color: transparent;
-    background-image: url("../images/background/2.jpg");
+    background-image: url("background/2.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1126,7 +1126,7 @@ form.volunteer-reg-form {
   .ulockd-divider1 {
     background-attachment: fixed !important;
     background-color: transparent;
-    background-image: url("../images/background/2.jpg");
+    background-image: url("background/2.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1147,7 +1147,7 @@ form.volunteer-reg-form {
   .ulockd-divider2 {
     background-attachment: fixed !important;
     background-color: transparent;
-    background-image: url("../images/background/4.jpg");
+    background-image: url("background/4.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -1917,7 +1917,7 @@ form.volunteer-reg-form {
   .ulockd-frst-divider.style1 {
     background-attachment: scroll !important;
     background-color: transparent;
-    background-image: url("../images/background/1.jpg");
+    background-image: url("background/1.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -2945,7 +2945,7 @@ form.volunteer-reg-form {
 /* ---------- FOOTER SECTION  ---------- */
   .ulockd-footer {
     background-attachment: fixed;
-    background-image: url("../images/background/3.jpg");
+    background-image: url("background/3.jpg");
     background-position: center top;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -3196,7 +3196,7 @@ form.volunteer-reg-form {
   /* INNER PAGES START HERE */
   .ulockd-inner-home {
     background-attachment: fixed;
-    background-image: url("../images/background/inner-pagebg.jpg");
+    background-image: url("background/inner-pagebg.jpg");
     background-position: center top;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -3335,7 +3335,7 @@ form.volunteer-reg-form {
   }
   /* SITEMAP PAGE */
   .ulockd-site-map{
-    background-image: url("../images/pattern/p3.html");
+    background-image: url("pattern/p3.html");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
